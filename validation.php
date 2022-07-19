@@ -1,5 +1,6 @@
 <?php
 // define variables and set to empty values
+// i dont use this file
 $name =$surname = $email = $password = ""; 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
