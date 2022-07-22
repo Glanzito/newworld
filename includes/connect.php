@@ -1,5 +1,5 @@
 <?php
-
+// connect
 $conn = new mysqli('localhost','root','','newworld');
 
 if( $conn->connect_error ){
